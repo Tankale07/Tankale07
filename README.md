@@ -1,7 +1,6 @@
 Hi, My name is Tan Kale 💕
 I love gardening, art, listening to music 🦋🐈
 I am currently learing the coding language Python 👾
-You can reach me via mail at tanunshkakale@gmail.com
 She/her 🐚
 
 <!---
